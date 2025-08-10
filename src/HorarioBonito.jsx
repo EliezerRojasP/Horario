@@ -904,7 +904,7 @@ export default function HorarioAvanzado() {
 
         {/* Footer */}
         <footer className="mt-16 pt-8 border-t border-zinc-700 text-sm text-zinc-400 text-center">
-          <p>Hecho con ❤️ para estudiantes organizados • <code>v3.1</code> • <a href="#" className="text-blue-400 hover:text-blue-300 ml-2">Reportar bug</a></p>
+          <p>Hecho con ❤️ para estudiantes organizados • <code>v3.1</code> </p>
         </footer>
       </div>
 
